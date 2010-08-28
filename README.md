@@ -20,6 +20,8 @@ of scripts. You can then provide a callback for your 'init' function
         alert("All scripts loaded!");
     });
     
+For a demonstration check the 'example' directory, or read the [tutorial][tutorial]. For production you can either use the minified version or copy-paste in a <script> tag to save a HTTP request.
+    
 More information
 ----------------
 ### Source
@@ -35,3 +37,5 @@ License
 -------
 Licensed under the MIT / X11 License:
 http://opensource.org/licenses/mit-license.php
+
+[tutorial]: http://www.haykranen.nl/projects/jsdynaload
