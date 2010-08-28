@@ -1,6 +1,6 @@
 /*
- * loadScript() - A basic Javascript loader with support for arrays
- * - http://github.com/hay/hay/tree/master/jsloader/
+ * jsDynaLoad() - A dynamic Javascript file loader with support for arrays and callbacks
+ * - http://github.com/hay/jsdynaload
  * Tutorial:
  * - http://www.haykranen.nl/?p=1290
  * Based on Nicholas C. Zakas' script:
@@ -13,19 +13,19 @@
  * of scripts. You can then provide a callback for your 'init' function
  *
  * - Single script:
- * loadScript("http://example.com/myscript.js", function() {
+ * jsDynaLoad("http://example.com/myscript.js", function() {
  *     alert('loaded!');
  * });
  *
  * - Multiple scripts:
  * var scripts = ['script1.js', 'script2.js', 'script3.js'];
- * loadScript(scripts, function() {
+ * jsDynaLoad(scripts, function() {
  *     alert("All scripts loaded!");
  * });
  *
 **/
 
-function loadScript(arg, cb) {
+function jsDynaLoad(arg, cb) {
     // Callback is not required
     cb = cb || function(){};
 
