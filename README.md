@@ -26,17 +26,15 @@ More information
 ----------------
 
 ### Source
-http://github.com/hay/jsdynaload
+[http://github.com/hay/jsdynaload](http://github.com/hay/jsdynaload)
 
 ### Tutorial
-http://www.haykranen.nl/?p=1290
+[http://www.haykranen.nl/projects/jsdynaload/](http://www.haykranen.nl/projects/jsdynaload/)
 
 ### Based on Nicholas C. Zakas' script:
-http://www.nczonline.net/blog/2009/07/28/the-best-way-to-load-external-javascript/
+[http://www.nczonline.net/blog/2009/07/28/the-best-way-to-load-external-javascript/](http://www.nczonline.net/blog/2009/07/28/the-best-way-to-load-external-javascript/)
 
 License
 -------
 Licensed under the MIT / X11 License:
-http://opensource.org/licenses/mit-license.php
-
-[tutorial]: http://www.haykranen.nl/projects/jsdynaload
+[http://opensource.org/licenses/mit-license.php](http://opensource.org/licenses/mit-license.php)
