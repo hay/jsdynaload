@@ -24,6 +24,7 @@ For a demonstration check the 'example' directory, or read the [tutorial][tutori
     
 More information
 ----------------
+
 ### Source
 http://github.com/hay/jsdynaload
 
